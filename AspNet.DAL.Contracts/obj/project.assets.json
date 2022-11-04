@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AspNet.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AspNet.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AspNet.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AspNet.Entities/1.0.0": {
+      "type": "project",
+      "path": "../AspNet.Entities/AspNet.Entities.csproj",
+      "msbuildProject": "../AspNet.Entities/AspNet.Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AspNet.Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/alexandre/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/AspNet.DAL.Contracts.csproj",
+      "projectName": "AspNet.DAL.Contracts",
+      "projectPath": "/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/AspNet.DAL.Contracts.csproj",
+      "packagesPath": "/Users/alexandre/.nuget/packages/",
+      "outputPath": "/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/alexandre/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/alexandre/Projects/AspNet/AspNet.Entities/AspNet.Entities.csproj": {
+              "projectPath": "/Users/alexandre/Projects/AspNet/AspNet.Entities/AspNet.Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

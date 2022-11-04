@@ -1,0 +1,12 @@
+/Users/alexandre/Projects/AspNet/AspNet.Entities/bin/Debug/net6.0/AspNet.Entities.deps.json
+/Users/alexandre/Projects/AspNet/AspNet.Entities/bin/Debug/net6.0/AspNet.Entities.dll
+/Users/alexandre/Projects/AspNet/AspNet.Entities/bin/Debug/net6.0/AspNet.Entities.pdb
+/Users/alexandre/Projects/AspNet/AspNet.Entities/obj/Debug/net6.0/AspNet.Entities.csproj.AssemblyReference.cache
+/Users/alexandre/Projects/AspNet/AspNet.Entities/obj/Debug/net6.0/AspNet.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandre/Projects/AspNet/AspNet.Entities/obj/Debug/net6.0/AspNet.Entities.AssemblyInfoInputs.cache
+/Users/alexandre/Projects/AspNet/AspNet.Entities/obj/Debug/net6.0/AspNet.Entities.AssemblyInfo.cs
+/Users/alexandre/Projects/AspNet/AspNet.Entities/obj/Debug/net6.0/AspNet.Entities.csproj.CoreCompileInputs.cache
+/Users/alexandre/Projects/AspNet/AspNet.Entities/obj/Debug/net6.0/AspNet.Entities.dll
+/Users/alexandre/Projects/AspNet/AspNet.Entities/obj/Debug/net6.0/refint/AspNet.Entities.dll
+/Users/alexandre/Projects/AspNet/AspNet.Entities/obj/Debug/net6.0/AspNet.Entities.pdb
+/Users/alexandre/Projects/AspNet/AspNet.Entities/obj/Debug/net6.0/ref/AspNet.Entities.dll

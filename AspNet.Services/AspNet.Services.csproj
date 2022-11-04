@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AspNet.Entities\AspNet.Entities.csproj" />
+    <ProjectReference Include="..\AspNet.Services.Contracts\AspNet.Services.Contracts.csproj" />
+    <ProjectReference Include="..\AspNet.DAL.Contracts\AspNet.DAL.Contracts.csproj" />
+  </ItemGroup>
+</Project>

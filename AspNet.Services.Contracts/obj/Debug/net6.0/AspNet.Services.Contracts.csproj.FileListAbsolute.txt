@@ -1,0 +1,15 @@
+/Users/alexandre/Projects/AspNet/AspNet.Services.Contracts/bin/Debug/net6.0/AspNet.Services.Contracts.deps.json
+/Users/alexandre/Projects/AspNet/AspNet.Services.Contracts/bin/Debug/net6.0/AspNet.Services.Contracts.dll
+/Users/alexandre/Projects/AspNet/AspNet.Services.Contracts/bin/Debug/net6.0/AspNet.Services.Contracts.pdb
+/Users/alexandre/Projects/AspNet/AspNet.Services.Contracts/bin/Debug/net6.0/AspNet.Entities.dll
+/Users/alexandre/Projects/AspNet/AspNet.Services.Contracts/bin/Debug/net6.0/AspNet.Entities.pdb
+/Users/alexandre/Projects/AspNet/AspNet.Services.Contracts/obj/Debug/net6.0/AspNet.Services.Contracts.csproj.AssemblyReference.cache
+/Users/alexandre/Projects/AspNet/AspNet.Services.Contracts/obj/Debug/net6.0/AspNet.Services.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandre/Projects/AspNet/AspNet.Services.Contracts/obj/Debug/net6.0/AspNet.Services.Contracts.AssemblyInfoInputs.cache
+/Users/alexandre/Projects/AspNet/AspNet.Services.Contracts/obj/Debug/net6.0/AspNet.Services.Contracts.AssemblyInfo.cs
+/Users/alexandre/Projects/AspNet/AspNet.Services.Contracts/obj/Debug/net6.0/AspNet.Services.Contracts.csproj.CoreCompileInputs.cache
+/Users/alexandre/Projects/AspNet/AspNet.Services.Contracts/obj/Debug/net6.0/AspNet.Services.Contracts.csproj.CopyComplete
+/Users/alexandre/Projects/AspNet/AspNet.Services.Contracts/obj/Debug/net6.0/AspNet.Services.Contracts.dll
+/Users/alexandre/Projects/AspNet/AspNet.Services.Contracts/obj/Debug/net6.0/refint/AspNet.Services.Contracts.dll
+/Users/alexandre/Projects/AspNet/AspNet.Services.Contracts/obj/Debug/net6.0/AspNet.Services.Contracts.pdb
+/Users/alexandre/Projects/AspNet/AspNet.Services.Contracts/obj/Debug/net6.0/ref/AspNet.Services.Contracts.dll

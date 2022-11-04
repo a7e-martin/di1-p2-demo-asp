@@ -1,0 +1,200 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alexandre/Projects/AspNet/AspNet.DAL/AspNet.DAL.csproj": {}
+  },
+  "projects": {
+    "/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/AspNet.DAL.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/AspNet.DAL.Contracts.csproj",
+        "projectName": "AspNet.DAL.Contracts",
+        "projectPath": "/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/AspNet.DAL.Contracts.csproj",
+        "packagesPath": "/Users/alexandre/.nuget/packages/",
+        "outputPath": "/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alexandre/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/alexandre/Projects/AspNet/AspNet.Entities/AspNet.Entities.csproj": {
+                "projectPath": "/Users/alexandre/Projects/AspNet/AspNet.Entities/AspNet.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alexandre/Projects/AspNet/AspNet.DAL/AspNet.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexandre/Projects/AspNet/AspNet.DAL/AspNet.DAL.csproj",
+        "projectName": "AspNet.DAL",
+        "projectPath": "/Users/alexandre/Projects/AspNet/AspNet.DAL/AspNet.DAL.csproj",
+        "packagesPath": "/Users/alexandre/.nuget/packages/",
+        "outputPath": "/Users/alexandre/Projects/AspNet/AspNet.DAL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alexandre/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/AspNet.DAL.Contracts.csproj": {
+                "projectPath": "/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/AspNet.DAL.Contracts.csproj"
+              },
+              "/Users/alexandre/Projects/AspNet/AspNet.Entities/AspNet.Entities.csproj": {
+                "projectPath": "/Users/alexandre/Projects/AspNet/AspNet.Entities/AspNet.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alexandre/Projects/AspNet/AspNet.Entities/AspNet.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexandre/Projects/AspNet/AspNet.Entities/AspNet.Entities.csproj",
+        "projectName": "AspNet.Entities",
+        "projectPath": "/Users/alexandre/Projects/AspNet/AspNet.Entities/AspNet.Entities.csproj",
+        "packagesPath": "/Users/alexandre/.nuget/packages/",
+        "outputPath": "/Users/alexandre/Projects/AspNet/AspNet.Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alexandre/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

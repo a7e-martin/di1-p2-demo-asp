@@ -1,0 +1,15 @@
+/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/bin/Debug/net6.0/AspNet.DAL.Contracts.deps.json
+/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/bin/Debug/net6.0/AspNet.DAL.Contracts.dll
+/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/bin/Debug/net6.0/AspNet.DAL.Contracts.pdb
+/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/bin/Debug/net6.0/AspNet.Entities.dll
+/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/bin/Debug/net6.0/AspNet.Entities.pdb
+/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/obj/Debug/net6.0/AspNet.DAL.Contracts.csproj.AssemblyReference.cache
+/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/obj/Debug/net6.0/AspNet.DAL.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/obj/Debug/net6.0/AspNet.DAL.Contracts.AssemblyInfoInputs.cache
+/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/obj/Debug/net6.0/AspNet.DAL.Contracts.AssemblyInfo.cs
+/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/obj/Debug/net6.0/AspNet.DAL.Contracts.csproj.CoreCompileInputs.cache
+/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/obj/Debug/net6.0/AspNet.DAL.Contracts.csproj.CopyComplete
+/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/obj/Debug/net6.0/AspNet.DAL.Contracts.dll
+/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/obj/Debug/net6.0/refint/AspNet.DAL.Contracts.dll
+/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/obj/Debug/net6.0/AspNet.DAL.Contracts.pdb
+/Users/alexandre/Projects/AspNet/AspNet.DAL.Contracts/obj/Debug/net6.0/ref/AspNet.DAL.Contracts.dll

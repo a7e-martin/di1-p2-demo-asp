@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AspNet.Services/1.0.0": {
+        "dependencies": {
+          "AspNet.DAL.Contracts": "1.0.0",
+          "AspNet.Entities": "1.0.0",
+          "AspNet.Services.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "AspNet.Services.dll": {}
+        }
+      },
+      "AspNet.DAL.Contracts/1.0.0": {
+        "dependencies": {
+          "AspNet.Entities": "1.0.0"
+        },
+        "runtime": {
+          "AspNet.DAL.Contracts.dll": {}
+        }
+      },
+      "AspNet.Entities/1.0.0": {
+        "runtime": {
+          "AspNet.Entities.dll": {}
+        }
+      },
+      "AspNet.Services.Contracts/1.0.0": {
+        "dependencies": {
+          "AspNet.Entities": "1.0.0"
+        },
+        "runtime": {
+          "AspNet.Services.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AspNet.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AspNet.DAL.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AspNet.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AspNet.Services.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
